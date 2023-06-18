@@ -1,0 +1,15 @@
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/bin/Debug/net6.0/3
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/bin/Debug/net6.0/3.deps.json
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/bin/Debug/net6.0/3.runtimeconfig.json
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/bin/Debug/net6.0/3.dll
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/bin/Debug/net6.0/3.pdb
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/3.csproj.AssemblyReference.cache
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/3.AssemblyInfoInputs.cache
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/3.AssemblyInfo.cs
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/3.csproj.CoreCompileInputs.cache
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/3.dll
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/refint/3.dll
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/3.pdb
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/3.genruntimeconfig.cache
+/home/oleg/geekbrains/C#/C_Sharp/HW/3/obj/Debug/net6.0/ref/3.dll
